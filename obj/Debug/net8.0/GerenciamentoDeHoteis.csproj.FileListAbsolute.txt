@@ -1,0 +1,14 @@
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\bin\Debug\net8.0\GerenciamentoDeHoteis.exe
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\bin\Debug\net8.0\GerenciamentoDeHoteis.deps.json
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\bin\Debug\net8.0\GerenciamentoDeHoteis.runtimeconfig.json
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\bin\Debug\net8.0\GerenciamentoDeHoteis.dll
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\bin\Debug\net8.0\GerenciamentoDeHoteis.pdb
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.AssemblyInfoInputs.cache
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.AssemblyInfo.cs
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.dll
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\refint\GerenciamentoDeHoteis.dll
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.pdb
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\GerenciamentoDeHoteis.genruntimeconfig.cache
+C:\Users\augus\source\repos\GerenciamentoDeHoteis\obj\Debug\net8.0\ref\GerenciamentoDeHoteis.dll
